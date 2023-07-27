@@ -12,4 +12,6 @@ Through careful preprocessing and feature engineering, I transformed textual dat
 The project showcases my expertise in machine learning, data analysis, and natural language processing. It demonstrates my ability to navigate complex datasets, implement advanced algorithms, and derive meaningful insights from textual data. Further, it presents an intresting observation for the overal sentimental analysis concept, and its respectivelly ethical reflection. 
 I am proud to include this project in my portfolio. However, it needs some imporvement.
 
-2) Loading...
+2) Supermarket_analysis.sql
+
+
