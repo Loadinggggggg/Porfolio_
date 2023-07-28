@@ -1,9 +1,7 @@
 # Porfolio
 Introduction:
 
-Welcome to my portfolio, where I showcase my passion for data analysis. Through my projects, I aim to leverage advanced technologies and analytical techniques to extract valuable insights and make data-driven decisions. My portfolio reflects my dedication to continuous learning and my ability to solve problems in various domains. 
-
-HERE BELOW YOU CAN FIND THE DESCRPITION FOR EACH OF THE FILE:
+Welcome to my portfolio, where I showcase my passion for data analysis. Through my projects, I aim to leverage advanced technologies and analytical techniques to extract valuable insights and make data-driven decisions. My portfolio reflects my dedication to continuous learning and my ability to solve problems in various domains.
 
 1) AE2_CODING.ipynb
 
