@@ -1,5 +1,5 @@
 # Porfolio
-Portfolio Introduction:
+Introduction:
 
 Welcome to my portfolio, where I showcase my passion for data analysis. Through my projects, I aim to leverage advanced technologies and analytical techniques to extract valuable insights and make data-driven decisions. My portfolio reflects my dedication to continuous learning and my ability to solve problems in various domains. 
 
