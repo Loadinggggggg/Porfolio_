@@ -14,18 +14,9 @@ I am proud to include this project in my portfolio. However, it needs some impor
 
 2) Supermarket_analysis.sql
    
-This SQL-based project involves querying a database table named 'Supermarket'. The 'Supermarket' table contains various columns such as Branch, City, Customer type, Gender, Product Line, Date, Total Sales, Cost of Goods Sold (COGS), Gross Income, Rating, Payment method, Quantity, and others. The goal of this project is to gain insights into the supermarket's sales performance, customer demographics, and product popularity.
-To accomplish the analysis, the following SQL skills and knowledge are used:
-1. SELECT statement: Used to retrieve specific columns or all columns from the 'Supermarket' table.
-2. GROUP BY clause: Used to group data based on certain columns, allowing aggregate functions like COUNT() and SUM() to be applied to each group.
-3. COUNT() function: Used to count the occurrences of rows in a group.
-4. SUM() function: Used to calculate the sum of numeric values within a group.
-5. AVG() function: Used to calculate the average of numeric values within a group.
-6. ORDER BY clause: Used to sort the query results based on specified columns in ascending or descending order.
-7. CASE statement: Used to categorize data based on specified conditions, like in Query 8 to categorize ratings into ranges.
-8. DATE_FORMAT() function: Used to format the date in a specific format, as seen in Query 13.
-9. Subqueries: Several queries use subqueries to calculate statistics related to different groupings.
-Overall, this project demonstrates the general use of SQL to extract valuable information from a dataset and perform various analytical tasks, including aggregations, filtering, sorting, and grouping data. The results of these queries provide valuable insights that can be used to make informed business decisions and optimize supermarket operations.
+Summary:
+This SQL-based project involves querying a database table named 'Supermarket' to gain insights into the supermarket's sales performance, customer demographics, and product popularity. The table contains various columns such as Branch, City, Customer type, Gender, Product Line, Date, Total Sales, Cost of Goods Sold (COGS), Gross Income, Rating, Payment method, Quantity, and others.
+To accomplish the analysis, the project utilizes SQL skills and knowledge, including the use of `SELECT` statements to retrieve specific columns, `GROUP BY` clause for grouping data, and aggregate functions like `COUNT()`, `SUM()`, and `AVG()` to calculate statistics within each group. The ORDER BY clause is applied to sort the query results, and the CASE statement is used for data categorization based on specified conditions. `DATE_FORMAT()` function is utilized to format dates, and subqueries are used for calculating statistics related to different groupings. The project showcases the application of SQL to perform various analytical tasks, such as aggregations, filtering, sorting, and grouping data. The insights derived from these queries provide valuable information for making informed business decisions and optimizing supermarket operations.
 
 3) Hotel.R
    
