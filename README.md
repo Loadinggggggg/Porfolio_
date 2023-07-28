@@ -27,7 +27,7 @@ To accomplish the analysis, the following SQL skills and knowledge are used:
 9. Subqueries: Several queries use subqueries to calculate statistics related to different groupings.
 Overall, this project demonstrates the general use of SQL to extract valuable information from a dataset and perform various analytical tasks, including aggregations, filtering, sorting, and grouping data. The results of these queries provide valuable insights that can be used to make informed business decisions and optimize supermarket operations.
 
-3) Hotel.R:
+3) Hotel.R
    
 This R-based project involves the analysis of a hotel bookings dataset using various packages like `readr`, `ggplot2`, `dplyr`, and `tidyr`. The dataset is loaded from a CSV file and contains information about hotel bookings, including lead time, arrival date, number of guests, meal type, distribution channel, guest status, deposit type, and more.
 The project's main objectives are to gain insights from the data and visualize booking patterns. It starts with basic insights like the average lead time and the most popular booking month, etc. Visualizations include the distribution of adults, children, and babies, number of bookings by meal type, distribution channel, and guest status, as well as the cancellation rate by month.
